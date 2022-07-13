@@ -51,6 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-3_Software/Implementation/Ripple_Arduino/.vs/
-3_Software/Implementation/Ripple_Arduino/__vm/
-3_Software/Implementation/Ripple_Arduino/Debug/
+4_Software/Implementation/Ripple_Arduino/.vs/
+4_Software/Implementation/Ripple_Arduino/Debug/
