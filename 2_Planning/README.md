@@ -18,6 +18,6 @@ Planning provides the project with structure and allows me to manage deadlines a
 
 ## Plan
 
-[](WorkBasedProject_ProjectPlan.png)
+![](WorkBasedProject_ProjectPlan.png)
 
 
