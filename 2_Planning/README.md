@@ -16,4 +16,8 @@ Planning provides the project with structure and allows me to manage deadlines a
 - Plant Model for testing
 - Final Report
 
+## Plan
+
+[](WorkBasedProject_ProjectPlan.png)
+
 
