@@ -1,4 +1,4 @@
-# Design, Development, Implementation, and Validation of Sensorless DC Motor Control Software in Automotive
+# Design, Development, and Validation of Sensorless DC Motor Control Software in Automotive
 ## Introduction
 Repository storing all final year project information, research, design and source code
 
